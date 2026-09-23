@@ -35,7 +35,7 @@ npx serve .
 |---|---|
 | Player Profile | Avatar, HP, class line, intro lines (PATH & LOADOUT) |
 | Character Stats | Attribute meters + skill tree |
-| Quest Log | Projects as quests — GitHub Repo Health Analyzer, Keystroke, Password Generator & Strength Checker, Caption Forge, Number Oracle |
+| Quest Log | Projects as quests - GitHub Repo Health Analyzer, Keystroke, Password Generator & Strength Checker, Caption Forge, Number Oracle |
 | Badges | Certifications, newest first |
 | Chronicles | Events, leadership, creative side-quests |
 | Lore | Interests & "special trait" |
